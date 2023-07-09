@@ -61,3 +61,23 @@ class MyApp extends StatelessWidget {
 ```
 
 ![gambar 1](ss/3.png)
+
+## 8. Pastikan bahwa baris-baris yang dimulai dengan name dan description telah diisi dengan informasi yang sesuai dengan proyek. 
+
+```
+name: my_flutter_project
+description: A new Flutter project.
+```
+## 9. Tambahkan baris berikut di bawah dependencies:
+
+```
+http: ^0.13.5
+flutter_rating_bar: ^4.0.1
+```
+
+![gambar 2](ss/4.png)
+
+## HASIL 
+
+![gambar 3](ss/1.png)
+![gambar 4](ss/2.png)
